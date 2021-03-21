@@ -1,0 +1,9 @@
+Django==3.1.7
+djangorestframework==3.12.2
+django-health-check==3.16.3
+python-decouple==3.4
+celery==4.4.7
+django-redis==4.12.1
+psycopg2==2.8.5
+gunicorn
+drf-yasg[validation]
